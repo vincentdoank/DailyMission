@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912099428994",
+    "firebase_url": "https://daily-ar-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "daily-ar",
+    "storage_bucket": "daily-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912099428994:android:5a23e5d27f3930883f829b",
+        "android_client_info": {
+          "package_name": "com.optimind.dailyar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912099428994-3btkkk6g2ihcia9cu6m14ftitg9an52j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfbeIVBmG3txF3S61ZrNW_lOsBJBfN8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912099428994-3btkkk6g2ihcia9cu6m14ftitg9an52j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

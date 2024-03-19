@@ -1,0 +1,126 @@
+{
+	"menuList" :
+	[
+		{
+			"id" : "map",
+			"name" : "2D Map",
+			"title" : "Map",
+			"functionName" : "Show2DMap",
+			"subMenus" :
+			[
+				{
+					"id" : "notif",
+					"name" : "Notification",
+					"functionName" : "OpenNotification"
+				},
+				{
+					"id" : "search",
+					"name" : "Search",
+					"functionName" : "OpenSearch"
+				}
+			],
+			"backButton" : false
+		},
+		{
+			"id" : "library",
+			"name" : "Library",
+			"title" : "Library",
+			"functionName" : "ShowLibrary",
+			"subMenus" :
+			[
+				{
+					"id" : "notif",
+					"name" : "Notification",
+					"functionName" : "OpenNotification"
+				},
+				{
+					"id" : "search",
+					"name" : "Search",
+					"functionName" : "OpenSearch"
+				}
+			],
+			"backButton" : false
+		},
+		{
+			"id" : "scan",
+			"name" : "Scan",
+			"title" : "Scan",
+			"functionName" : "ShowScanner"
+		},
+		{
+			"id" : "profile",
+			"name" : "You",
+			"title" : "Library",
+			"functionName" : "ShowProfile",
+			"subMenus" :
+			[
+				{
+					"id" : "notif",
+					"name" : "Notification",
+					"functionName" : "OpenNotification"
+				},
+				{
+					"id" : "search",
+					"name" : "Search",
+					"functionName" : "OpenSearch"
+				}
+			],
+			"backButton" : false
+		}
+	],
+	"imageUrlList": 
+	[
+		{
+			"id" : "map",
+			"url" : "https://www.dropbox.com/scl/fi/1net6302xdj88e183nr0i/SymbolMap.png?rlkey=9ikkfxkzu8yzlzha5wpz3kdiy&dl=1"
+		},
+		{
+			"id" : "library",
+			"url" : "https://www.dropbox.com/scl/fi/egxbyeg1w4xiwq5amprn0/SymbolLibrary.png?rlkey=1gdzwb7zf5tr4l0qtyk5quwtg&dl=1"
+		},
+		{
+			"id" : "scan",
+			"url" : "https://www.dropbox.com/scl/fi/6hzoqq35kjij07fbeh711/SymbolScan.png?rlkey=pwio4j8jaoadddkht93xlctuv&dl=1"
+		},
+		{
+			"id" : "profile",
+			"url" : "https://www.dropbox.com/scl/fi/h6wtkrvqx86nwqk63p9i0/SymbolProfile.png?rlkey=31g2dcqvjy0lwvboeoc3yfdkt&dl=1"
+		},
+		{
+			"id" : "notif",
+			"url" : "https://www.dropbox.com/scl/fi/qofe9ne334xxitgxp7u35/NotifIcon.png?rlkey=3gh3z7xgxehul2mq7bld1cpkw&dl=1"
+		},
+		{
+			"id" : "search",
+			"url" : "https://www.dropbox.com/scl/fi/ii0mtu2lxkdwup5tyiteq/SearchIcon.png?rlkey=jtaok3kjwzz1kmka8qy6uuk2o&dl=1"
+		},
+		{
+			"id" : "schedule",
+			"url" : "https://www.dropbox.com/scl/fi/sdd6jtanh8ioi6lp9ff39/Calendar.png?rlkey=kq091bxec3lq7wcmeanjzqa0y&dl=1"
+		},
+		{
+			"id" : "navigation",
+			"url" : "https://www.dropbox.com/scl/fi/tyfuklpxnp7dom4uvwyer/Navigation.png?rlkey=80fp8p5fwho475k19w9dce4k9&dl=1"
+		}
+	],
+	"backButtonSpriteUrl" : "https://www.dropbox.com/scl/fi/2jjpcwjjjmcuwremwsym3/BackArrow.png?rlkey=w8i9et1iwbqahmqw35xg1m8xq&dl=1",
+	"titleList" :
+	[
+		{
+			"id" : "map",
+			"title" : "Map"
+		},
+		{
+			"id" : "library",
+			"title" : "Library"
+		},
+		{
+			"id" : "profile",
+			"title" : "Profile"
+		},
+		{
+			"id" : "place",
+			"title" : "[place]"
+		}
+	]
+}

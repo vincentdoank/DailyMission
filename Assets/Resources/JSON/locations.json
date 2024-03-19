@@ -1,0 +1,56 @@
+{
+	"locationList" :
+	[
+		{
+			"id" : "kotaTua",
+			"name" : "Kota Tua",
+			"subMenus" :
+			[
+				{
+					"id" : "schedule",
+					"name" : "Schedule",
+					"functionName" : "OpenSchedule"
+				},
+				{
+					"id" : "navigation",
+					"name" : "Navigation",
+					"functionName" : "OpenNavigation"
+				}
+			]
+		},
+		{
+			"id" : "monas",
+			"name" : "Kota Tua",
+			"subMenus" :
+			[
+				{
+					"id" : "schedule",
+					"name" : "Schedule",
+					"functionName" : "OpenSchedule"
+				},
+				{
+					"id" : "navigation",
+					"name" : "Navigation",
+					"functionName" : "OpenNavigation"
+				}
+			]
+		},
+		{
+			"id" : "lawangSewu",
+			"name" : "LawangSewu",
+			"subMenus" :
+			[
+				{
+					"id" : "schedule",
+					"name" : "Schedule",
+					"functionName" : "OpenSchedule"
+				},
+				{
+					"id" : "navigation",
+					"name" : "Navigation",
+					"functionName" : "OpenNavigation"
+				}
+			]
+		}
+	]
+}

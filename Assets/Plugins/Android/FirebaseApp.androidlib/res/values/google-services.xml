@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://daily-ar-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">912099428994</string>
+  <string name="google_storage_bucket" translatable="false">daily-ar.appspot.com</string>
+  <string name="project_id" translatable="false">daily-ar</string>
+  <string name="google_api_key" translatable="false">AIzaSyBUfbeIVBmG3txF3S61ZrNW_lOsBJBfN8w</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBUfbeIVBmG3txF3S61ZrNW_lOsBJBfN8w</string>
+  <string name="google_app_id" translatable="false">1:912099428994:android:5a23e5d27f3930883f829b</string>
+  <string name="default_web_client_id" translatable="false">912099428994-3btkkk6g2ihcia9cu6m14ftitg9an52j.apps.googleusercontent.com</string>
+</resources>
